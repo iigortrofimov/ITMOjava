@@ -60,5 +60,27 @@ public class project2_lesson3 {
         System.out.println(c.substring(3,5)); //
         System.out.println(a.contains("str"));
 
+        String string = "First";
+        String string2 = "Second";
+        string2 += string;
+        System.out.println(string2);
+
+        for (int i = 0; i < 10; i++)
+        {
+            string += string2;
+        }
+        System.out.println(string);
+
+//        ========================================StringBuffer | StringBuilder==============редактируют имеющиеся строки
+
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append(string);
+        for (int i = 0; i < 10; i++)
+        {
+            stringBuilder.append(" string").append("str");
+        }
+        System.out.println(stringBuilder.toString());
+
+
     }
 }
