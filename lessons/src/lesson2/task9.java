@@ -2,7 +2,7 @@ package lesson2;
 
 public class task9 {
     public static void main(String[] args) {
-        double plates = 11.0;
+        double plates = 231.0;
         double cleaner = 12.0;
         for (int i = 0; i < plates; i++)
         {
