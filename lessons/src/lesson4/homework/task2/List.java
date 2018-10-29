@@ -1,30 +1,42 @@
 package lesson4.homework.task2;
 
 public class List {
-    private ListElements head;
-    private  ListElements tail;
-    void addFront(int data) {
-        ListElements a = new ListElements();
-        a.data = data;
+    private Noda head;
+
+
+    void addNoda(int data) {
+        Noda noda = new Noda();
+        noda.data = data;
+        if (head == null) {
+            head = noda;
+
+        } else {
+            noda.next = head;
+            head = noda;
+        }
+    }
+    void show() {
+        Noda show = head;
+        while (show != null) {
+            System.out.println(show.data);
+            show = show.next;
+        }
+    }
+    void removeNoda(int data){
         if (head == null){
-            head = a;
-            tail = a;
-        } else {
-            a.next = head;
-            head = a;
+            return;
         }
+    if (head.data == data){
+        head = head.next;
+        return;
     }
-    void addBack(int data){
-        ListElements a = new ListElements();
-        a.data = data;
-        if (tail == null){
-            head = a;
-            tail = a;
-        } else {
-            tail.next = a;
-            tail = a;
+    Noda noda = head;
+    while (noda.next != null){
+        if (noda.next.data == data){
+            noda.next = noda.next.next;
+            return;
         }
-
+        else noda = noda.next;
     }
-
+    }
 }

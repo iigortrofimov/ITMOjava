@@ -1,4 +1,4 @@
-package projects;
+package lesson3;
 
 import java.util.Arrays;
 
