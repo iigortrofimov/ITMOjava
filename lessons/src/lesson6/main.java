@@ -15,19 +15,30 @@ public class main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите название персонажа");
         String userChoise = scanner.nextLine();
-        BattleUn unit;
-        if (userChoise.equals("knight")){
-            unit = new Knight(100, 22);
-        } else if (userChoise.equals("spearmen")){
-            unit = new Spearmen(233, 10);
-        } else {
-            unit = new Doctor(90,10);
-        }
+
+        BattleUnitFactoty unitFactoty = new BattleUnitFactoty();
+        BattleUn unit = unitFactoty.create(userChoise);
+//        BattleUn unit;
+//        if (userChoise.equals("knight")){
+//            unit = new Knight(100, 22);
+//        } else if (userChoise.equals("spearmen")){
+//            unit = new Spearmen(233, 10);
+//        } else {
+//            unit = new Doctor(90,10);
+//        }
 
         Fight fight = new Fight(knight, spearma);
         fight.fight();
-        fight.fightResult();
+        System.out.println(fight.fightResult());
 
 
     }
 }
+
+ // Парадигмы ООП:
+// Абстракция
+// Инкапсуляция
+// Полиформизм  создаем объект через общий родительский , или когда создаем одинаковые методы, но с разными аргументами
+// Наследоавние
+// Полиморфизм
+// Повторное использование

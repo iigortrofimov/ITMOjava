@@ -7,11 +7,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c12deaf7-6ad6-4718-a155-dc72e5646618" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson6/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson6/InterfaceForBattleUnit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson6/BattleUn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/BattleUn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson6/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/Knight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson6/Spearmen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/Spearmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/BattleUn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/BattleUnitFactoty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/Calculator/Addition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/Calculator/Division.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/Calculator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/Calculator/Multiplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/Calculator/Operations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/Calculator/Substraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/Doctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/Fight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/InterfaceForBattleUnit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/Knight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/Spearmen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson6/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson6/BattleUnitFactoty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson6/Calculator/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson6/Calculator/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson6/Calculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson6/Calculator/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson6/Calculator/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson6/Calculator/Substraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson6/Fight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/Fight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lesson6/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,26 +54,26 @@
         <counts>
           <entry key="MF" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="118" />
+          <entry key="java" value="134" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="118" />
+          <entry key="JAVA" value="134" />
           <entry key="Manifest" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="java" value="15806" />
+          <entry key="java" value="18155" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15806" />
+          <entry key="JAVA" value="18155" />
           <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
@@ -63,64 +81,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson6/Knight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson6/main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson6/Spearmen.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson6/Calculator/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson6/Calculator/Operations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson6/Doctor.java">
+        <entry file="file://$PROJECT_DIR$/src/lesson6/Calculator/Multiplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
               <folding>
-                <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson6/InterfaceForBattleUnit.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson6/Calculator/Substraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="98" selection-start-line="3" selection-start-column="98" selection-end-line="3" selection-end-column="98" />
+            <state relative-caret-position="153">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson6/BattleUn.java">
+        <entry file="file://$PROJECT_DIR$/src/lesson6/Calculator/Division.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="48" />
+            <state relative-caret-position="221">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson6/Calculator/Addition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,8 +172,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -141,15 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson1/task6.java" />
-        <option value="$PROJECT_DIR$/src/projects/project_lesson2.java" />
-        <option value="$PROJECT_DIR$/src/lesson1/task7.java" />
-        <option value="$PROJECT_DIR$/src/lesson2/task1.java" />
-        <option value="$PROJECT_DIR$/src/projects/project_lesson3.java" />
-        <option value="$PROJECT_DIR$/src/lesson2/task7.java" />
-        <option value="$PROJECT_DIR$/src/projects/project2_lesson3.java" />
-        <option value="$PROJECT_DIR$/src/lesson2/task6.java" />
-        <option value="$PROJECT_DIR$/src/lesson2/task8.java" />
         <option value="$PROJECT_DIR$/src/lesson2/task3.java" />
         <option value="$PROJECT_DIR$/src/lesson2/task9.java" />
         <option value="$PROJECT_DIR$/src/lesson3/task3.java" />
@@ -184,14 +217,23 @@
         <option value="$PROJECT_DIR$/src/lesson4/homework/task1/Circle.java" />
         <option value="$PROJECT_DIR$/src/lesson4/homework/task1/Main.java" />
         <option value="$PROJECT_DIR$/src/lesson4/homework/task3/Book.java" />
-        <option value="$PROJECT_DIR$/src/lesson4/homework/task3/Main.java" />
         <option value="$PROJECT_DIR$/src/lesson4/homework/task3/Library.java" />
-        <option value="$PROJECT_DIR$/src/lesson6/BattleUn.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/InterfaceForBattleUnit.java" />
         <option value="$PROJECT_DIR$/src/lesson6/Knight.java" />
         <option value="$PROJECT_DIR$/src/lesson6/Spearmen.java" />
-        <option value="$PROJECT_DIR$/src/lesson6/main.java" />
         <option value="$PROJECT_DIR$/src/lesson6/Doctor.java" />
-        <option value="$PROJECT_DIR$/src/lesson6/InterfaceForBattleUnit.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/BattleUn.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/BattleUnitFactoty.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/Fight.java" />
+        <option value="$PROJECT_DIR$/src/lesson4/homework/task3/Main.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/main.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/Calculator/InterfaceForCalculate.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/Calculator/Operations.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/Calculator/Multiplication.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/Calculator/Substraction.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/Calculator/Addition.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/Calculator/Division.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/Calculator/Main.java" />
       </list>
     </option>
   </component>
@@ -250,14 +292,14 @@
               <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson5" type="462c0819:PsiDirectoryNode" />
-              <item name="BattleUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lesson6" type="462c0819:PsiDirectoryNode" />
+              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
@@ -298,7 +340,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540828148624" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540841546247" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -321,7 +363,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson4.homework.task1.Main" />
       <module name="lessons" />
@@ -362,11 +404,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson4.Main" />
+      <option name="MAIN_CLASS_NAME" value="lesson6.Calculator.Main" />
       <module name="lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson4.*" />
+          <option name="PATTERN" value="lesson6.Calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,12 +416,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson5.RegExp" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.main" />
       <module name="lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson5.*" />
+          <option name="PATTERN" value="lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,19 +430,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.RegExp" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.RegExp" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -437,8 +479,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -496,73 +538,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add task4" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6358">
-          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson3/task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#99#100#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson4/projectLesson4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson1/homework/task7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson1/homework/task6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson1/homework/task5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson1/homework/task4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson1/homework/task3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson1/homework/task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson1/homework/task1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -818,37 +793,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson4/homework/task3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson4/homework/task3/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson4/homework/task3/Library.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson5/BattleUnit/BattleUn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -856,42 +800,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson6/BattleUn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson6/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson6/Spearmen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson6/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson6/Doctor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#106#107#0" expanded="true" />
             <element signature="e#149#150#0" expanded="true" />
@@ -899,10 +811,172 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson6/InterfaceForBattleUnit.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Spearmen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson4/homework/task3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson4/homework/task3/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson4/homework/task3/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="98" selection-start-line="3" selection-start-column="98" selection-end-line="3" selection-end-column="98" />
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Fight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Knight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/BattleUn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/InterfaceForBattleUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+          <folding>
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/BattleUnitFactoty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Calculator/InterfaceForCalculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Calculator/Addition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Calculator/Substraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Calculator/Operations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Calculator/Multiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Calculator/Division.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Calculator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
         </state>
       </provider>
     </entry>

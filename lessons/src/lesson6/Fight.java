@@ -19,7 +19,7 @@ public class Fight {
     }
 
     public String fightResult(){
-        return "Health юнита 1 = " + unit1.getHealth() + "Health юнита 2 = " + unit2.getHealth();
+        return "Health юнита 1 = " + unit1.getHealth() + " " + "Health юнита 2 = " + unit2.getHealth();
 
 
 
