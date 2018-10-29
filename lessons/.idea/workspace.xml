@@ -7,40 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c12deaf7-6ad6-4718-a155-dc72e5646618" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson4/homework/task2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson4/homework/task2/Noda.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson5/BattleUnit/BattleUn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson5/BattleUnit/Knight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson5/BattleUnit/Spearmen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson5/BattleUnit/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/homework/task2/Noda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/homework/task3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/homework/task3/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/homework/task3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lessons/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/lesson4/homework/task1/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lessons/lesson4/homework/task1/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/lesson4/homework/task1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lessons/lesson4/homework/task1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/lesson4/homework/task1/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lessons/lesson4/homework/task1/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/lesson4/homework/task1/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lessons/lesson4/homework/task1/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/lesson4/homework/task2/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lessons/lesson4/homework/task2/List.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/lesson4/homework/task2/ListElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/lesson5/RegExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lessons/lesson5/RegExp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/projects/project2_lesson3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/projects/project_lesson2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/projects/project_lesson3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/homework/task1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/homework/task1/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/homework/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/homework/task1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/homework/task1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/homework/task1/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/homework/task1/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/homework/task1/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/homework/task2/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/homework/task2/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/homework/task2/ListElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/homework/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/homework/task2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson5/BattleUnit/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson5/BattleUnit/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projects/project2_lesson3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/project2_lesson3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projects/project_lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/project_lesson2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projects/project_lesson3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/project_lesson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson6/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson6/InterfaceForBattleUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson6/BattleUn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/BattleUn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson6/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/Knight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson6/Spearmen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/Spearmen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson6/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,26 +36,26 @@
         <counts>
           <entry key="MF" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="106" />
+          <entry key="java" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="106" />
+          <entry key="JAVA" value="118" />
           <entry key="Manifest" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="java" value="15394" />
+          <entry key="java" value="15806" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15394" />
+          <entry key="JAVA" value="15806" />
           <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
@@ -92,38 +64,63 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson4/homework/task3/Book.java">
+        <entry file="file://$PROJECT_DIR$/src/lesson6/Knight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="85">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson6/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson6/Spearmen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#99#100#0" expanded="true" />
-                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson4/homework/task3/Library.java">
+        <entry file="file://$PROJECT_DIR$/src/lesson6/Doctor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#644#645#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson4/homework/task3/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/lesson6/InterfaceForBattleUnit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="51">
+              <caret line="3" column="98" selection-start-line="3" selection-start-column="98" selection-end-line="3" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson6/BattleUn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -134,6 +131,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -143,11 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson1/task1.java" />
-        <option value="$PROJECT_DIR$/src/lesson1/task2.java" />
-        <option value="$PROJECT_DIR$/src/lesson1/task4.java" />
-        <option value="$PROJECT_DIR$/src/lesson1/task5.java" />
-        <option value="$PROJECT_DIR$/src/lesson1/task3.java" />
         <option value="$PROJECT_DIR$/src/lesson1/task6.java" />
         <option value="$PROJECT_DIR$/src/projects/project_lesson2.java" />
         <option value="$PROJECT_DIR$/src/lesson1/task7.java" />
@@ -193,6 +186,12 @@
         <option value="$PROJECT_DIR$/src/lesson4/homework/task3/Book.java" />
         <option value="$PROJECT_DIR$/src/lesson4/homework/task3/Main.java" />
         <option value="$PROJECT_DIR$/src/lesson4/homework/task3/Library.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/BattleUn.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/Knight.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/Spearmen.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/main.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/Doctor.java" />
+        <option value="$PROJECT_DIR$/src/lesson6/InterfaceForBattleUnit.java" />
       </list>
     </option>
   </component>
@@ -224,12 +223,6 @@
               <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lesson4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -246,6 +239,25 @@
               <item name="lesson4" type="462c0819:PsiDirectoryNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
               <item name="task3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson5" type="462c0819:PsiDirectoryNode" />
+              <item name="BattleUnit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
@@ -286,11 +298,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540815140809" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540828148624" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\iigor\Desktop\lessons\lessons\src\lesson6" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -410,7 +427,36 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -437,7 +483,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -450,12 +496,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add task4" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lessons.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6358">
@@ -610,19 +650,6 @@
           <folding>
             <element signature="e#116#117#0" expanded="true" />
             <element signature="e#163#164#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson5/BattleUnit/BattleUn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -791,6 +818,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson4/homework/task3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson4/homework/task3/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -806,8 +840,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson4/homework/task3/Library.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state relative-caret-position="259">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#644#645#0" expanded="true" />
             <element signature="e#685#686#0" expanded="true" />
@@ -815,10 +849,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson4/homework/task3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson5/BattleUnit/BattleUn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/BattleUn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Spearmen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Knight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Doctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/InterfaceForBattleUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="98" selection-start-line="3" selection-start-column="98" selection-end-line="3" selection-end-column="98" />
         </state>
       </provider>
     </entry>

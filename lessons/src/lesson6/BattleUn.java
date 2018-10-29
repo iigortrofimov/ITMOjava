@@ -1,8 +1,8 @@
 package lesson6;
 
-public class BattleUn {
+abstract public class BattleUn implements InterfaceForBattleUnit{
  //   private int health;
-  //  private int attackScore;
+ //  private int attackScore;
     protected int health;
     protected int attackScore;
 
@@ -15,7 +15,15 @@ public class BattleUn {
         return health > 0;
     }
 
-    public void attack (BattleUn enemy){
-        enemy.health -= this.attackScore;
+    abstract public void attack (BattleUn enemy); // метод при реализации доступны только в абстрактом классе
+    // на основе такого класса нельзя создать объект
+
+
+    public int getHealth() {
+        return health;
+    }
+
+    public int getAttackScore() {
+        return attackScore;
     }
 }

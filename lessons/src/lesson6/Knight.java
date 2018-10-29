@@ -1,6 +1,6 @@
 package lesson6;
 
-public class Knight extends BattleUn {
+public class Knight extends BattleUn implements InterfaceForBattleUnit{
     public Knight(int heealth, int attackScore) {
         super(heealth, attackScore); // обращение к методам родителям
     }
@@ -15,4 +15,17 @@ public class Knight extends BattleUn {
         enemy.health -= this.attackScore;
         addHeath();
     }
+
+    @Override
+    public void say(String text) {
+        System.out.println("Рыцарь сказал: " + text);
+    }
+
+    @Override
+    public void sing(String song) {
+        System.out.println("Песня рыцаря " + song);
+
+    }
+
+
 }
