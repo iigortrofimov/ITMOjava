@@ -30,13 +30,13 @@ public class List {
         head = head.next;
         return;
     }
-    Noda noda = head;
-    while (noda.next != null){
-        if (noda.next.data == data){
-            noda.next = noda.next.next;
+    Noda index = head;
+    while (index.next != null){
+        if (index.next.data == data){
+            index.next = index.next.next;
             return;
         }
-        else noda = noda.next;
+        else index = index.next;
     }
     }
 }
