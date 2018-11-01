@@ -1,4 +1,4 @@
-package lesson7;
+package lesson7.Book;
 
 import java.util.Objects;
 import java.util.Random;
@@ -7,6 +7,16 @@ public class Book {
     private String title;
     private String author;
     private int pages;
+    //final String CONST;
+//
+//    public Book(String title, String author, int pages, String CONST) {
+//        this.title = title;
+//        this.author = author;
+//        this.pages = pages;
+//        this.CONST = CONST;
+//    }
+
+
 
     public static int soldBook; //  можем сделать методы, классыб переменые | относятся к классу, а не к объекту||
     // обратиться можно по имен класса
@@ -93,3 +103,5 @@ public class Book {
         return Objects.hash(title, author, pages);
     }
 }
+
+// copyofRange // почитать статический  копия массива
