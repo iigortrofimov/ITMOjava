@@ -1,4 +1,4 @@
-package lesson6;
+package lesson6.BattleIUnit;
 
 public class Doctor extends BattleUn implements InterfaceForBattleUnit{ // интерфейсов моэнт быть несколько
     public Doctor(int heealth, int attackScore) {

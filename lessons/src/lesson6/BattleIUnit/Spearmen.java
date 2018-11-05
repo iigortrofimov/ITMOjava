@@ -1,4 +1,4 @@
-package lesson6;
+package lesson6.BattleIUnit;
 
 public class Spearmen extends BattleUn implements InterfaceForBattleUnit  {
     public Spearmen(int heealth, int attackScore) {

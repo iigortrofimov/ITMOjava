@@ -1,4 +1,4 @@
-package lesson6;
+package lesson6.BattleIUnit;
 
 import java.util.Scanner;
 

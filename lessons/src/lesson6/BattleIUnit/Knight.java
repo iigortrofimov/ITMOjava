@@ -1,4 +1,4 @@
-package lesson6;
+package lesson6.BattleIUnit;
 
 public class Knight extends BattleUn implements InterfaceForBattleUnit{
     public Knight(int heealth, int attackScore) {

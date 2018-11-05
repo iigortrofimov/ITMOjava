@@ -1,4 +1,4 @@
-package lesson6;
+package lesson6.BattleIUnit;
 
 public class BattleUnitFactoty {
     public BattleUn create(String userChoise) {

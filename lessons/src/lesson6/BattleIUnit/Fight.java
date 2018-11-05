@@ -1,4 +1,4 @@
-package lesson6;
+package lesson6.BattleIUnit;
 
 public class Fight {
     private BattleUn unit1;

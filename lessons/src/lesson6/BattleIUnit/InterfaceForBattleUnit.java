@@ -1,4 +1,4 @@
-package lesson6;
+package lesson6.BattleIUnit;
 
 public interface InterfaceForBattleUnit {
     void say (String text); // все будличные все абстрактные + все контстантные значения( не изм)

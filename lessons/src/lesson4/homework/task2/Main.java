@@ -10,7 +10,7 @@ public class Main {
         System.out.println("---------------------------");
         list.show();
         System.out.println("---------------------------");
-        list.removeNoda(7);
+        list.removeNoda(6);
         System.out.println("---------------------------");
         list.show();
     }

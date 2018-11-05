@@ -1,4 +1,4 @@
-package lesson6;
+package lesson6.BattleIUnit;
 
 abstract public class BattleUn implements InterfaceForBattleUnit{
  //   private int health;
