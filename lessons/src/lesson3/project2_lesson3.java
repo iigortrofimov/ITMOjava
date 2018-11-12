@@ -1,6 +1,7 @@
 package lesson3;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class project2_lesson3 {
     public static void main(String[] args) {
@@ -80,7 +81,6 @@ public class project2_lesson3 {
             stringBuilder.append(" string").append("str");
         }
         System.out.println(stringBuilder.toString());
-
 
     }
 }

@@ -18,5 +18,6 @@ public class task3 {
         }
         System.out.println(Arrays.toString(arr));
         System.out.println(chet);
+
     }
 }

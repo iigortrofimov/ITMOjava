@@ -9,6 +9,7 @@ public class task_string1 {
         String str2 = in.nextLine();
         String str3 = in.nextLine();
         System.out.println(str1.replaceAll(str2, str3));
+       // System.out.println(str1.);
 
 //replaceall
         //StringBuffer
