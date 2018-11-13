@@ -18,21 +18,21 @@ public class BookHandler {
         try(Connection connection =
                     DriverManager.getConnection("jdbc:sqlite:lesson8.db")) { // устанавливаем соединение
             Statement statement = connection.createStatement(); // "выражение"
-            int row = statement.executeUpdate(sql); // создание удаление 0, | если одновляет то возращает колво-строк
+            int row = statement.executeUpdate(sql); // создание удаление 0, | если добовляет то возращает колво-строк
             // создание, удаление, изменения
             System.out.println(row);
         }
     }
     public static void insertIntoTable(Book book) throws SQLException {
         String sql = "INSERT INTO Book (title, pages)" +
-                " VALUES (?, ?);"; // по очереди один в первую колонку, вьрой во вторую
+                " VALUES (?, ?);"; // по очереди один в первую колонку, второй во вторую
         try(Connection connection =
                     DriverManager.getConnection("jdbc:sqlite:lesson8.db")) { // устанавливаем соединение
             PreparedStatement statement = connection.prepareStatement(sql); //
             statement.setString(1,book.getTitle());
             statement.setInt(2,book.getPages());
 
-            int row = statement.executeUpdate(); // создание удаление 0, | если одновляет то возращает колво-строк
+            int row = statement.executeUpdate(); // создание удаление 0, | если добовляет то возращает колво-строк
             // создание, удаление, изменения
             System.out.println(row);
         }

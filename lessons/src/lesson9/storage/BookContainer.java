@@ -16,6 +16,7 @@ public class BookContainer<T extends Book> {
         Book tails = new Book("Tales", 500);
 
         BookContainer<Book> container= new BookContainer<>(tails);
+        System.out.println(container.getBookTitle());
 
     }
 }

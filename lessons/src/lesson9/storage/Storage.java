@@ -4,24 +4,33 @@ package lesson9.storage;
 
 import java.util.Iterator;
 
-public class Storage <T> implements Iterable{
+public class Storage <T> implements List<T>, Iterable{
     Container head;
 
-    public void add(T value) {
-        if (head == null) {
+    @Override
+    public void add(T value){
+        if (head == null){
             head = new Container<>(value);
 
             return;
         }
-
         find(-1).next = new Container<>(value);
     }
+//    public void add(T value) {
+//        if (head == null) {
+//            head = new Container<>(value);
+//
+//            return;
+//        }
+//
+//        find(-1).next = new Container<>(value);
+//    }
 
     public T get(int idx) {
-        Container res = find(idx);
+        Container<T> res = find(idx);
 
-     //   return res == null ? -1 : res.element;
-        return null;
+        return res == null ? null : res.element;
+        //return null;
     }
 
     private Container find(int idx) {
@@ -49,7 +58,9 @@ public class Storage <T> implements Iterable{
         return new StorageIterator(head);
     }
 
-    private static class StorageIterator implements Iterator {
+
+
+private static class StorageIterator implements Iterator {
         private Container next;
 
         private StorageIterator(Container next) {
