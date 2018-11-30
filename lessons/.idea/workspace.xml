@@ -6,85 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c12deaf7-6ad6-4718-a155-dc72e5646618" name="Default Changelist" comment="start of IOSteams HW">
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/sqlite_jdbc_3_23_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Connector_J_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaDD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson10/homework/Body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson10/homework/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson10/homework/IndexMass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson10/homework/MainCat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson10/homework/MainDog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson10/homework/collections/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson10/homework/collections/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson10/homework/collections/Task3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson10/homework/collections/Task4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson12/MapExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson12/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson13/EnumExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson13/MySQLConnect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson13/Role$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson13/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson13/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lesson15/IOstreams.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lessson16/LaunchStat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lessson16/LaunchStatExternalizable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lessson16/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lessson16/printApp/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/lessson16/printApp/PrintClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/other/inputSteams/FileInputStreams.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/other/inputSteams/FileInputStreamsUTF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/other/inputSteams/FileOutputStreams.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/other/inputSteams/InToOut.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/other/outputStreams/ByteArrayOutputStreams.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/other/outputStreams/Example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/other/outputStreams/ObjectOutputStreams.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/other/outputStreams/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/other/outputStreams/PrintStreams.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/other/tests/ArrayListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lessons/other/tests/Tests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson10/homework/Body.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson10/homework/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson10/homework/IndexMass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson10/homework/MainDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson10/homework/collections/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson10/homework/collections/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson10/homework/collections/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson10/homework/collections/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson12/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson12/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson13/EnumExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson13/MySQLConnect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson15/IOstreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessson16/LaunchStat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessson16/LaunchStatExternalizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessson16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessson16/printApp/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessson16/printApp/PrintClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/inputSteams/FileInputStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/inputSteams/FileInputStreamsUTF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/inputSteams/FileOutputStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/inputSteams/InToOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/outputStreams/ByteArrayOutputStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/outputStreams/Peson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/outputStreams/PrintStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/tests/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/tests/Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stat.bin" afterDir="false" />
+    <list default="true" id="c12deaf7-6ad6-4718-a155-dc72e5646618" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lesson15/homework/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lessons.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/lesson10/homework/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/lesson11/CE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lessons/lesson11/CE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/lesson11/CollectionsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lessons/lesson11/CollectionsExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lessons/lesson8/JDBCExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lessons/lesson8/JDBCExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10/homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson10/homework/MainCat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson11/CE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson11/CE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson11/CollectionsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson11/CollectionsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson8/JDBCExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson8/JDBCExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lessons/other/outputStreams/ObjectOutputStreams.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,14 +45,14 @@
         <counts>
           <entry key="MF" value="1" />
           <entry key="iml" value="3" />
-          <entry key="java" value="521" />
+          <entry key="java" value="522" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="521" />
+          <entry key="JAVA" value="522" />
           <entry key="Manifest" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
@@ -135,13 +60,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="82" />
-          <entry key="java" value="44604" />
+          <entry key="java" value="45254" />
           <entry key="txt" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="44604" />
+          <entry key="JAVA" value="45254" />
           <entry key="PLAIN_TEXT" value="169" />
         </counts>
       </usages-collector>
@@ -152,28 +77,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lesson15/IOstreams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="718">
-              <caret line="109" column="19" lean-forward="true" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
+            <state relative-caret-position="157">
+              <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson10/homework/Body.java">
+        <entry file="file://$PROJECT_DIR$/src/lesson15/homework/Task1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../ITMOjava/lessons/src/lesson15/IOStreams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-458">
-              <caret line="154" column="51" selection-start-line="154" selection-start-column="51" selection-end-line="154" selection-end-column="51" />
+            <state relative-caret-position="136">
+              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
               <folding>
-                <element signature="e#175#192#0" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -196,8 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson8/BookHandler.java" />
-        <option value="$PROJECT_DIR$/src/lesson9/classes/ChildBook.java" />
         <option value="$PROJECT_DIR$/src/lesson9/storage/BookContainer.java" />
         <option value="$PROJECT_DIR$/src/lesson9/storage/Container.java" />
         <option value="$PROJECT_DIR$/src/lesson9/storage/List.java" />
@@ -247,6 +161,8 @@
         <option value="$PROJECT_DIR$/src/other/outputStreams/ObjectOutputStreams.java" />
         <option value="$PROJECT_DIR$/src/other/outputStreams/Peson.java" />
         <option value="$PROJECT_DIR$/src/lesson15/IOstreams.java" />
+        <option value="$PROJECT_DIR$/src/lesson15/homework/task1.java" />
+        <option value="$PROJECT_DIR$/src/lesson15/homework/Task1.java" />
       </list>
     </option>
   </component>
@@ -305,90 +221,18 @@
               <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson10" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lesson15" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="inputSteams" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="outputStreams" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="outputStreams" type="462c0819:PsiDirectoryNode" />
-              <item name="Peson.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="lesson15" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -398,7 +242,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543576271311" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543598004471" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../basejava" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -425,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example">
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="ByteArrayOutputStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.outputStreams.ByteArrayOutputStreams" />
       <module name="lessons" />
@@ -445,19 +289,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="other.outputStreams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileOutputStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.inputSteams.FileOutputStreams" />
-      <module name="lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.inputSteams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -491,20 +322,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson15.homework.Task1" />
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson15.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.FileOutputStreams" />
       <item itemvalue="Application.InToOut" />
       <item itemvalue="Application.ByteArrayOutputStreams" />
       <item itemvalue="Application.PrintStreams" />
       <item itemvalue="Application.Example" />
+      <item itemvalue="Application.Task1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.PrintStreams" />
         <item itemvalue="Application.ByteArrayOutputStreams" />
         <item itemvalue="Application.InToOut" />
-        <item itemvalue="Application.FileOutputStreams" />
       </list>
     </recent_temporary>
   </component>
@@ -535,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539894944742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="start of IOSteams HW">
+      <created>1543576365717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543576365717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -549,6 +400,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18986385" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -559,7 +411,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32786885" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39836067" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -567,7 +419,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.13934426" />
       <window_info anchor="bottom" id="SQLite Console" order="11" weight="0.32851985" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -646,13 +498,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson10/homework/collections/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson10/homework/collections/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1023,17 +868,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson15/IOstreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="718">
-          <caret line="109" column="19" lean-forward="true" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson10/homework/Body.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson15/IOstreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="76" column="20" lean-forward="true" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson15/homework/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
