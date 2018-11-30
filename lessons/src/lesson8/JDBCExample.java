@@ -8,7 +8,8 @@ public class JDBCExample {
 
     //создать таблицу
     public  static void createTable() throws SQLException {
-        String sql = "CREATE TABLE IF NOT EXISTS Example (" + "id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL," + "firstColumn TEXT NOT NULL," +
+        String sql = "CREATE TABLE IF NOT EXISTS Example (" + "id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL," +
+                "firstColumn TEXT NOT NULL," +
                 "secondColumn INTEGER NOT NULL)"
                 ; // создаем если еще не создана
         // PRIMARY KEY по нему осущ поиск
@@ -65,4 +66,6 @@ public class JDBCExample {
         }
 
     }
+
+
 }

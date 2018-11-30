@@ -1,6 +1,6 @@
 //package lesson4;
 //
-//public class Main {
+//public class MainCat {
 //    public static void main(String[] args) {
 //        Good door = new Good("Дверь", 1000);
 //        System.out.println(door.toString());

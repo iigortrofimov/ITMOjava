@@ -4,9 +4,11 @@ import com.sun.org.apache.xpath.internal.operations.String;
 
 import java.util.ArrayList;
 import java.lang.*;
+import java.util.LinkedList;
 
 public class CollectionsExample {
     public static void main(String[] args) {
+
         /* Java Collectiom FrameWork
          java,util,collection
         boolean add(E e)
@@ -33,7 +35,7 @@ public class CollectionsExample {
         //     Lise<E> sublist(int start, int end);
         //----------------------------------------------------------------
 
-        ArrayList<String> list = new ArrayList<>();
+//        ArrayList<String> list = new ArrayList<>();
 //        list.ensureCapacity(20); // минимальный размер списка
 //        list.trimToSize();// обрезет свободные ячейки
 //        list.add("Elem2");
