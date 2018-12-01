@@ -55,10 +55,23 @@ public class task3 {
     }
 
     public static void main(String[] args) {
-        File file = new File("c:\\java\\1.txt");
-        File file2 = new File("c:\\java\\2.txt");
-        File file3 = new File("c:\\java\\3.txt");
-        encodeFile(file, file2);
-        decodeFile(file2, file3);
+//        File file = new File("c:\\java\\1.txt");
+//        File file2 = new File("c:\\java\\2.txt");
+//        File file3 = new File("c:\\java\\3.txt");
+//        encodeFile(file, file2);
+//        decodeFile(file2, file3);
+
+        String secret = " I live in SPb all my life";
+        String key = "abc";
+        byte[] b = encode(secret, key);
+        String str = null;
+        try {
+            str = new String(encode(secret, key), "UTF-8");
+            System.out.println(str);
+            System.out.println(decode(b, key));
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        }
     }
+
 }
