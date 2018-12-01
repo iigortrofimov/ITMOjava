@@ -1,4 +1,4 @@
-package lesson10.homework;
+package lesson10.homework.classes;
 
 public class Dog {
     private String name = null;

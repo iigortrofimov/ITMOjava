@@ -1,4 +1,4 @@
-package lesson10.homework;
+package lesson10.homework.classes;
 
 public class MainCat {
     public static void main(String[] args) {

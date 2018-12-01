@@ -1,4 +1,4 @@
-package lesson10.homework;
+package lesson10.homework.classes;
 
 import java.io.IOException;
 import java.util.Scanner;
