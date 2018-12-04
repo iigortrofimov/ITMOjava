@@ -3,7 +3,7 @@ package lesson15.homework;
 import java.io.*;
 import java.util.Arrays;
 
-public class task3 {
+public class Task3 {
     private static byte[] encode(String txt, String key) {
         byte[] bTxt = null;
         byte[] bKey = null;
