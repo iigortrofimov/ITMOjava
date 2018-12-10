@@ -3,6 +3,8 @@ package lesson15.homework;
 import java.io.*;
 import java.util.Arrays;
 
+//не получается дешифровать из файла в файл
+
 public class Task3 {
     private static byte[] encode(String txt, String key) {
         byte[] bTxt = null;

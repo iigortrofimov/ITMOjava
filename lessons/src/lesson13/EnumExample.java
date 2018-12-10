@@ -11,7 +11,6 @@ public class EnumExample {
             System.out.println("OKs");
         }
 // values
-
         System.out.println(Arrays.toString(Role.values()));
         for (Role role : Role.values()) {
             System.out.println(role);
@@ -24,8 +23,6 @@ public class EnumExample {
 
         // ordinal
         System.out.println(userRole.ordinal());
-
-
     }
 }
 
@@ -54,9 +51,10 @@ class User {
 }
 
 enum Role { // перечисление
-    ADMIN {public Role adminRole(){
-        return ADMIN;
-    }
+    ADMIN {
+        public Role adminRole() {
+            return ADMIN;
+        }
 
     },
     USER, GUEST;

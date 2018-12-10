@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        //Library lib1 = new Library(10);
+        //Person lib1 = new Person(10);
         Book book1 = new Book();
         book1.setName("Aladin");
         Book book2 = new Book();
