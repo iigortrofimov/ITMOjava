@@ -18,6 +18,14 @@ public class xor {
         System.out.println(f % ab);
         //System.out.println(c % 0 );
         System.out.println(c % f);
+        System.out.println("===========================");
+        System.out.println(1%3);
+        System.out.println(2%3);
+        System.out.println(3%3);
+        System.out.println(4%3);
+        System.out.println(12%3);
+        System.out.println(67%3);
+        System.out.println(0%1);
 
     }
 }

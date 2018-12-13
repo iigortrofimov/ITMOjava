@@ -2,8 +2,8 @@ package patterns.decorator;
 
 public class Service2 extends ServiceDecorator {
 
-    public Service2(IService iService) {
-        super(iService);
+    public Service2(IService service) {
+        super(service);
     }
 
     @Override

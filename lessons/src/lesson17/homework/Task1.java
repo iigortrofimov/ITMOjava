@@ -14,11 +14,17 @@ import java.util.List;
 
 public class Task1 {
     public static void main(String[] args) {
-        String source = "C:\\java\\1.txt";
-        String dest = "C:\\java\\2.txt";
-
-        // read file to Collection (Lost)
+        String source = "C:\\java\\2.txt";
+        String dest = "C:\\java\\1.txt";
+        // read file to Collection (List)
         List<String> textList = readFile(source);
+        System.out.println("Текст:\n");
+        textList.forEach(System.out::println);
+
+        List<String> newText = deleteWrongWordsToCollection(textList, 3, 6);
+        System.out.println("Текст:\n");
+        newText.forEach(System.out::println);
+        saveToFile(dest, newText);
     }
 
     //Читаем файл в коллекцию List<String> по пути path
@@ -33,7 +39,6 @@ public class Task1 {
         return list;
     }
 
-
     // Save date to the File
     public static void saveToFile(String dest, List<String> list) {
         try {
@@ -41,32 +46,6 @@ public class Task1 {
         } catch (IOException e) {
             System.out.println(e.getMessage());
         }
-    }
-
-    /*
-     * Метод получает кол-во слов в строке по параметрам.
-     *
-     * @param line       - строка для поиска слов;
-     * @param minSymbols - минимальное кол-во символов в слове включительно;
-     * @param maxSymbols - максимальное кол-во символов в слове включительно;
-     * @return кол-во слов, удовлетворяющих параметрам;
-     */
-
-    public static int getCountWrongWords(String line, int minSymbols, int maxSymbols) {
-        int result = 0;
-        if (line != null) {
-            line = line.trim(); // удаляем пробелы в начале  и в конце строки
-            if (line.length() != 0) {
-                for (String word : line.split("\\s+")) { //делим строку на массив по пробелам
-                    int length = word.length();
-                    if (length >= minSymbols && length <= maxSymbols) {
-                        result++;
-                    }
-
-                }
-            }
-        }
-        return result;
     }
 
     /*
@@ -79,17 +58,21 @@ public class Task1 {
      * @return строку без "плохих" слов;
      */
 
-    public static void deleteWrongWords(String line, int countWrongWords, int minSymbols, int maxSymbols) {
+    public static String deleteWrongWords(String line, int minSymbols, int maxSymbols) {
         StringBuilder sb = new StringBuilder();
         if (line.length() != 0) {
-                for (String word : line.split(" ")) {
-                    if (word.length() != 0){
-                        if (word.length() < minSymbols && word.length() > maxSymbols){
-                            sb.append(word).append(" ");
+            for (String word : line.split(" ")) {
+                if (word.length() != 0) {
+                    if (word.length() < minSymbols || word.length() > maxSymbols) {
+                        sb.append(word).append(" ");
+                    } else {
+                        String s = "";
+                        sb.append(s);
                     }
                 }
             }
         }
+        return sb.length() == 0 ? line : sb.toString();
     }
 
     /*
@@ -106,12 +89,10 @@ public class Task1 {
         if (list != null && !list.isEmpty()) {
             for (String line : list) {
                 line = line.trim();
-                int countWrongWords = getCountWrongWords(line, minSymbols, maxSymbols);
-               // line = deleteWrongWords(line, countWrongWords, minSymbols, maxSymbols);
+                line = deleteWrongWords(line, minSymbols, maxSymbols);
                 resultList.add(line);
             }
         }
         return resultList;
     }
-
 }
