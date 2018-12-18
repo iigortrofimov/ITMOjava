@@ -13,6 +13,25 @@ package patterns.homework.task2;
     не повторяется на дальнейшее повышение температуры, но если опустится ниже порога,
     а потом опять преодолеет, то выведется снова.*/
 
-public class Task2 {
+public class Main {
+    public static void main(String[] args) {
+        Sensor sensor = new Sensor();
 
+        GreenAlarm greenAlarm = new GreenAlarm();
+        YellowAlarm yellowAlarm = new YellowAlarm();
+        RedAlarm redAlarm = new RedAlarm();
+
+        sensor.addAlarm(greenAlarm);
+        sensor.addAlarm(yellowAlarm);
+        sensor.addAlarm(redAlarm);
+
+        for (int i = 0; i < 650; i++) {
+            sensor.tempChange(i);
+        }
+
+        sensor.tempChange(101);
+        sensor.tempChange(99);
+        sensor.tempChange(299);
+        sensor.tempChange(350);
+    }
 }
