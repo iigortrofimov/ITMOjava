@@ -9,6 +9,8 @@ public class GreenAlarm implements Alarm {
         if (temp >= 100 && prevTemp < 100) {
             System.out.println("Danger level \"GREEN\"");
             prevTemp = temp;
+        } else if (temp < 100) {
+            prevTemp = 0;
         }
     }
 }

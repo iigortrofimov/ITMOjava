@@ -9,6 +9,8 @@ public class RedAlarm implements Alarm {
         if (temp >= 600 && prevTemp < 600) {
             System.out.println("Danger level \"RED\"");
             prevTemp = temp;
+        } else if (temp < 600) {
+            prevTemp = 0;
         }
     }
 }
