@@ -1,4 +1,4 @@
-package patterns.homework.task2;
+package patterns.homework.task2_Observer;
 
 import java.util.ArrayList;
 import java.util.List;

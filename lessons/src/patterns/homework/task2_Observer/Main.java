@@ -1,4 +1,4 @@
-package patterns.homework.task2;
+package patterns.homework.task2_Observer;
 
 /*2. Реализовать сигнализации, реагирующие на повышение температуры (паттерн observer).
     Класс Sensor инкрементально повышает температуру, и на каждое изменение температуры оповещает слушателей
@@ -30,21 +30,18 @@ public class Main {
 //        }
 
         sensor.tempChange(110);
-        sensor.tempChange(112);
-        sensor.tempChange(115);
         sensor.tempChange(90);
         sensor.tempChange(107);
-        sensor.tempChange(108);
         sensor.tempChange(70);
         sensor.tempChange(50);
         sensor.tempChange(150);
         sensor.tempChange(350);
-        sensor.tempChange(360);
         sensor.tempChange(290);
         sensor.tempChange(310);
         sensor.tempChange(610);
-        sensor.tempChange(650);
         sensor.tempChange(10);
         sensor.tempChange(660);
+        sensor.tempChange(290);
+        sensor.tempChange(670);
     }
 }

@@ -1,4 +1,4 @@
-package patterns.homework.task2;
+package patterns.homework.task2_Observer;
 
 
 public class RedAlarm implements Alarm {

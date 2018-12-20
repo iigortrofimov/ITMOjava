@@ -1,4 +1,4 @@
-package patterns.homework.task1;
+package patterns.homework.task1_Decorator;
 
 import java.io.FilterOutputStream;
 import java.io.IOException;
