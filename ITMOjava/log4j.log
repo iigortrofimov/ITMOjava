@@ -1,0 +1,2 @@
+2018-12-24 20:55:56 INFO  Log4LoggedProgram:11 - Started with args: []
+2018-12-24 20:55:56 ERROR Log4LoggedProgram:16 - Fatal error: / by zero
