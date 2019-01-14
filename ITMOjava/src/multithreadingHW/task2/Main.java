@@ -1,4 +1,4 @@
-package multithreading.task2;
+package multithreadingHW.task2;
 
 /*      Сделать пиццерию на очередях: клиенты складывают
         заказы в очередь 1, официанты из нее заказы
