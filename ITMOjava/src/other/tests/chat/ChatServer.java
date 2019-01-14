@@ -13,7 +13,7 @@ public class ChatServer {
     public static void main(String[] args) {
         try {
             try {
-                serverSocket = new ServerSocket(4004);// socket server listens on port 4004
+                serverSocket = new ServerSocket(4004);// socket server listens on library 4004
                 System.out.println("Server is running");
                 clientSocket = serverSocket.accept(); // accept() will wait until someone wants to connect in
                 try {

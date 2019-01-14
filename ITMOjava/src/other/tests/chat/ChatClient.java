@@ -12,7 +12,7 @@ public class ChatClient {
     public static void main(String[] args) {
         try {
             try {
-                // port similar as server
+                // library similar as server
                 clientSocket = new Socket("localhost", 4004); // ask the server for connection access
                 reader = new BufferedReader(new InputStreamReader(System.in));
                 // reading messages from server
