@@ -98,16 +98,16 @@ public class Reader implements Runnable {
                             library.addBook(book);
                         }
                     }
-                    System.out.println("Желатете вернуть еще книгу? (да/нет)");
-                    String returnAnswer2 = scanner.nextLine();
-                    if (returnAnswer2.equalsIgnoreCase("нет")) {
-                        break;
-                    }
-                } else {
+                }
+                System.out.println("Остались ли у вас еще книги, которые вы бы хотели сдать в библиотеку? (да/нет)");
+                String returnAnswer2 = scanner.nextLine();
+                if (returnAnswer2.equalsIgnoreCase("нет")) {
                     break;
+                } else {
+                    System.out.println("Желаете вернуть книгу(книги)? (да/нет)");
                 }
             }
-            library.showBooks();
         }
+        library.showBooks();
     }
 }
